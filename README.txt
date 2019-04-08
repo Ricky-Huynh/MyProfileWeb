@@ -1,4 +1,5 @@
 Paradigm Shift by HTML5 UP
+I use this template by doing some modfication with my information because I can create my profile. 
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
